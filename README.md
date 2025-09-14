@@ -1,15 +1,14 @@
 <h1 align="center">Hey there 👋 I'm Jagan Yetukuri</h1>
 <h3 align="center">AI Engineer • Founder • AI Researcher • Full-Stack Developer</h3>
 
-</p>gie
+</p>
 <p align="center">
 ⚙️ Building advanced AI systems with real-world impact. <br/>
 🚀 Founder of EduVerse — the AI mentorship platform for skill-building and hiring. <br/>
 🧠 Blending cutting-edge ML, full-stack architecture, and system design at scale.
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jagan-yetukrui&theme=github-dark" width="100%"/>
-</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
