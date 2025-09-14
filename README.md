@@ -59,7 +59,7 @@ Cloud/Infra:   AWS (EC2, S3, RDS) • Docker • GitHub Actions • PostgreSQL
 Tooling:       Pytest • Maven • Streamlit • FastAPI • Firebase • GCP
 
 🤝 Collaborate / Hire / Connect
-	•	📩 Email: jaganyetukuri [at] gmail.com
-	•	💼 LinkedIn: linkedin.com/in/jaganyetukuri
+	•	📩 Email: jaganyetukuri7@gmail.com
+	•	💼 LinkedIn: linkedin.com/in/jagan-yetukuri
 	•	🌐 Portfolio: Coming soon
 	•	🎙️ Podcast: Master Mind w/ Jagan (in progress)
